@@ -1,0 +1,1 @@
+/* Ejemplo aplicación random.js para trabajar con Git */

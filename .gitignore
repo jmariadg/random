@@ -1,0 +1,10 @@
+# ignora el fichero
+git_cheat_sheet.pdf
+
+
+# ignora todos los archivos .txt
+*.txt
+
+
+# ignora la carpeta ejemplo
+carpetaEjemplo/
